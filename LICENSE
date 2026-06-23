@@ -19,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+Additional attribution notice, not part of the MIT License text:
+
+This operating system is derived in part from
+[operating-system-in-1000-lines](https://github.com/nuta/operating-system-in-1000-lines)
+by Seiya Nuta.
+
+Portions of this project are based on code from the original project,
+which is licensed under the MIT License.
+
+The original project's license information is as follows:
+
+- Files under `website/*.md`: Creative Commons Attribution 4.0 International (CC BY 4.0)
+- Everything else: MIT License
